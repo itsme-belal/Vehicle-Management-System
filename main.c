@@ -1,30 +1,4 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-80 of 124
-(no subject)
-
-Kakarot 20 <ahmedbhr2001@gmail.com>
-Attachments
-5 Sept 2023, 01:23
-to deeppaingamer, 2023-2-60-126, waseerahmedbadsha
-
-Mara khao sobai
- One attachment
-  •  Scanned by Gmail
-#include <stdio.h>
-#include <string.h>
-#include <conio.h>
-#include <stdlib.h>
-
-
-
 #define MAX_VEHICLE 100
-
 
 struct Vehicle
 {
@@ -506,3 +480,4 @@ void updateCredential()
     } while (!(strcmp(user.usr, newUsername) == 0 && strcmp(user.key, newPassword) == 0));
 
 }
+
