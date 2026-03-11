@@ -1,6 +1,6 @@
 # 🚗 Vehicle Management System
 
-### CSE101 – Structured Programming Project
+### CSE103 – Structured Programming Project
 
 This project is a **console-based Vehicle Management System** developed using the **C programming language**. The system allows users to efficiently manage vehicle records by adding, viewing, updating, searching, and deleting vehicle information.
 
@@ -82,7 +82,10 @@ gcc main.c -o vehicle
 ```
 
 ---
+## Username & Password
 
+Username : cse103
+password: cse103
 ## 👨‍💻 Author
 
 **Belal Hossain**
