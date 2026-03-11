@@ -48,18 +48,6 @@ This project demonstrates several important concepts of **Structured Programming
 
 ---
 
-## 📂 File Structure
-
-```
-Vehicle-Management-System/
-│
-├── main.c
-├── vehicle_data.txt
-└── README.md
-```
-
-* **main.c** → Contains the main source code of the program
-* **vehicle_data.txt** → Stores all vehicle records
 
 ---
 
@@ -74,20 +62,14 @@ Vehicle-Management-System/
    * GCC
 3. Compile and run the program.
 
-Example (using GCC):
-
-```
-gcc main.c -o vehicle
-./vehicle
-```
-
 ---
 ## Username & Password
 
-Username : cse103
+Username : cse103<br>
 password: cse103
+
 ## 👨‍💻 Author
 
-**Belal Hossain**
-BSc in Computer Science & Engineering
+**Belal Hossain**<br>
+BSc in Computer Science & Engineering<br>
 East West University
