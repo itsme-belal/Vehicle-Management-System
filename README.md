@@ -46,8 +46,6 @@ This project demonstrates several important concepts of **Structured Programming
 * **Modular Programming**
   The program is divided into multiple functions to improve readability and maintainability.
 
----
-
 
 ---
 
